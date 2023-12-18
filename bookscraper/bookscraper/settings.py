@@ -20,7 +20,7 @@ FEEDS = {
 }
 
 # ScrapeOps API Keys - used for generating fake user-agents and headers
-SCRAPEOPS_API_KEY = 'a3efc932-bc70-4b1d-ac5c-bfd56a7f5f1d'
+SCRAPEOPS_API_KEY = '<<Your ScrapeOPS API Key>>'
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 5
